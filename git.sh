@@ -1,4 +1,4 @@
-echo ??
-git add .
-git commit -m "??"
+
+git add -A
+git commit -m "sh"
 git push
